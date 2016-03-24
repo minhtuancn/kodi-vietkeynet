@@ -17,7 +17,7 @@ import client
 reload(sys);
 sys.setdefaultencoding("utf8")
 
-__settings__ = xbmcaddon.Addon(id='plugin.video.vietmedia.movie')
+__settings__ = xbmcaddon.Addon(id='plugin.video.vietkeynet.movie')
 __language__ = __settings__.getLocalizedString
 __profile__ = xbmc.translatePath( __settings__.getAddonInfo('profile') ).decode("utf-8")
 
