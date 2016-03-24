@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.video.vietkeynet.fptplay" name="Fpt Play" version="1.6.0" provider-name="repository.vietkeynet">
   <requires>
